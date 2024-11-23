@@ -1,0 +1,51 @@
+[
+  {
+    "titulo": "Curso de soldagem MIG e TIG",
+    "area": "Indústria",
+    "nivel": "Intermediário",
+    "descricao": "Aprimore suas habilidades em soldagem MIG e TIG para aplicações industriais.",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYr78ElK0NBONqzy_cBkELWoRfi52EHKswA&s"
+  },
+  {
+    "titulo": "Treinamento para operadores de empilhadeira",
+    "area": "Logística",
+    "nivel": "Iniciante",
+    "descricao": "Curso básico para operação de empilhadeiras e movimentação de cargas.",
+    "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5fRW28XR1cXsBStQGuCDOFfe8NXddxSZhw&s"
+  },
+  {
+    "titulo": "Curso de programação CNC",
+    "area": "Indústria",
+    "nivel": "Avançado",
+    "descricao": "Aprenda a programar e operar máquinas CNC com precisão.",
+    "imagemUrl": "https://damassets.autodesk.net/content/dam/autodesk/images/solutions/cnc-programming/what-is-cnc-programming-thumb-858x483.jpg"
+  },
+  {
+    "titulo": "Curso de direção de veículos pesados",
+    "area": "Transportes",
+    "nivel": "Intermediário",
+    "descricao": "Treinamento para motoristas de caminhões com foco em segurança e eficiência.",
+    "imagemUrl": "https://localizafrotas-prd.azurewebsites.net/wp-content/uploads/tipos-veiculos-pesados.jpg.webp"
+  },
+  {
+    "titulo": "Curso de montagem de estruturas metálicas",
+    "area": "Construção",
+    "nivel": "Iniciante",
+    "descricao": "Capacite-se para montagem e instalação de estruturas metálicas.",
+    "imagemUrl": "https://www.acoplano.com.br/assets/images/blog_antigo/2019/04/motagem-de-estruturas-metalicas-acoplano.jpg"
+  },
+  {
+    "titulo": "Curso de eletricidade industrial e NR-10",
+    "area": "Manutenção",
+    "nivel": "Avançado",
+    "descricao": "Capacitação para eletricistas industriais com ênfase em segurança do trabalho.",
+    "imagemUrl": "https://www.automacaoindustrial.info/wp-content/uploads/2019/06/manutencao-industrial-tipos-manutencao-industrial.jpg"
+  },
+  {
+    "titulo": "Capacitação em carga e descarga de mercadorias",
+    "area": "Logística",
+    "nivel": "Iniciante",
+    "descricao": "Treinamento para atuar no carregamento e descarregamento de cargas com eficiência.",
+    "imagemUrl": "https://fabrimetalarmazenagem.com.br/wp-content/uploads/2019/09/sistemas-de-carga-e-descarga-vantagens-de-um-armazem-bem-planejado.jpg"
+  }
+]

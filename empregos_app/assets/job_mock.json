@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "Soldador",
+    "empresa": "Metalúrgica Silva",
+    "localizacao": "São Paulo, SP",
+    "tipo": "Tempo Integral",
+    "descricao": "Vaga para soldador com experiência em solda MIG e TIG.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLf7LfWJirrOJmOt7btH3Ae5bCsRRDYeTrzw&s",
+    "area": "Indústria"
+  },
+  {
+    "titulo": "Operador de empilhadeira",
+    "empresa": "Logística Nova Era",
+    "localizacao": "Curitiba, PR",
+    "tipo": "Contrato",
+    "descricao": "Operador de empilhadeira para movimentação de cargas em armazéns.",
+    "image": "https://media.licdn.com/dms/image/v2/C560BAQEk3fCmjDWvgw/company-logo_200_200/company-logo_200_200/0/1631424411960/nova_era_logistica_logo?e=2147483647&v=beta&t=p_VRvLXEXqy6wZKxZxRikCdoe8m4H7JBNwxFY-D3dSc",
+    "area": "Logística"
+  },
+  {
+    "titulo": "Operador de CNC",
+    "empresa": "Librelato",
+    "localizacao": "Joinville, SC",
+    "tipo": "Tempo Integral",
+    "descricao": "Buscamos operador de CNC com conhecimento em programação e operação de tornos.",
+    "image": "https://ema.net.br/midia/2020/02/1241/simbol.jpg?4750830879",
+    "area": "Indústria"
+  },
+  {
+    "titulo": "Motorista de caminhão",
+    "empresa": "TransLog Brasil",
+    "localizacao": "Remoto",
+    "tipo": "Tempo Integral",
+    "descricao": "Motorista de caminhão para transporte de cargas a nível nacional. Necessário CNH categoria E.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC5Y1rXWwxFl5k7GZBz6p_AIoeuwGdd7Zjrw&s",
+    "area": "Transportes"
+  },
+  {
+    "titulo": "Montador de estruturas metálicas",
+    "empresa": "Construmetal",
+    "localizacao": "Belo Horizonte, MG",
+    "tipo": "Meio Período",
+    "descricao": "Responsável por montar estruturas metálicas em obras e projetos industriais.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiaxATuA_5rS_SE2MWSk84Ej0i_rV9ImZmmg&s",
+    "area": "Construção"
+  },
+  {
+    "titulo": "Técnico em manutenção industrial",
+    "empresa": "Amazon Indústria",
+    "localizacao": "Manaus, AM",
+    "tipo": "Tempo Integral",
+    "descricao": "Realizar manutenção preventiva e corretiva em máquinas industriais.",
+    "image": "https://storage.googleapis.com/ecdt-logo-saida/7fdd4e60cdf97a9a4bbd9ef55e40cd3ac7102efd834fd38a1a53b1bc6e3147a6/AMAZON-INDUSTRIAL.webp",
+    "area": "Manutenção"
+  },
+  {
+    "titulo": "Auxiliar de produção",
+    "empresa": "Alimentos Sol",
+    "localizacao": "Porto Alegre, RS",
+    "tipo": "Tempo Integral",
+    "descricao": "Auxiliar em processos produtivos em linha de montagem de alimentos.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeG6BSIb097jvdHdbxAMirRx9Rc59gF3e40Q&s",
+    "area": "Produção"
+  },
+  {
+    "titulo": "Eletricista industrial",
+    "empresa": "Energia Forte",
+    "localizacao": "São Paulo, SP",
+    "tipo": "Tempo Integral",
+    "descricao": "Eletricista com experiência em sistemas elétricos industriais e NR-10.",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQF82wL3OJH-gA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677671048224?e=2147483647&v=beta&t=XgOkUN95nDXDa-txfVRBW2zJcKARhWJSCqMQKr2sYqA",
+    "area": "Manutenção"
+  },
+  {
+    "titulo": "Operador de máquinas agrícolas",
+    "empresa": "AgroForte",
+    "localizacao": "Campo Grande, MS",
+    "tipo": "Contrato",
+    "descricao": "Operação de tratores e colheitadeiras em fazenda de grande porte.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLESqNhLbbFz_f5VuyrdHSrGA79b6hyQ3eg&s",
+    "area": "Agronegócio"
+  },
+  {
+    "titulo": "Auxiliar de carga e descarga",
+    "empresa": "Logística Nova Era",
+    "localizacao": "Rio de Janeiro, RJ",
+    "tipo": "Tempo Integral",
+    "descricao": "Carregar e descarregar mercadorias em centros de distribuição.",
+    "image": "https://media.licdn.com/dms/image/v2/C560BAQEk3fCmjDWvgw/company-logo_200_200/company-logo_200_200/0/1631424411960/nova_era_logistica_logo?e=2147483647&v=beta&t=p_VRvLXEXqy6wZKxZxRikCdoe8m4H7JBNwxFY-D3dSc",
+    "area": "Logística"
+  }
+]
